@@ -60,7 +60,7 @@ h1 {
     margin-left: 3%;
 }
 
-a.twitter {
+a.twitter, a.facebook, a.github {
     font-family: 'social';
     font-size: 35px;
     color: #d0d0d0;
@@ -297,4 +297,7 @@ h3 {
     margin-left: 16%;
     }
 
+}
+section#Hardware {
+    background: #333;
 }
